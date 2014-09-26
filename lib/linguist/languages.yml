@@ -432,6 +432,7 @@ Crystal:
 Cucumber:
   lexer: Gherkin
   primary_extension: .feature
+  ace_mode: gherkin
 
 Cuda:
   lexer: CUDA
